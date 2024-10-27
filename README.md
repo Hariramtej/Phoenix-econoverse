@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PHEONIX ECONOVERSE
 
 Primary aim -
@@ -15,4 +16,6 @@ Information about the languages used -
     --> Frameworks will be used like Vue.js, React or angular
     --> Most of the project will be written on html, css and JavaScript.
     --> Usage of database is required to store the authentication and user detailes. We will be using.
+=======
+>>>>>>> 662b9ee35a73ec2c28fe0f1b038fadaf5acfe000
 
