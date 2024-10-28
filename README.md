@@ -1,21 +1,18 @@
-<<<<<<< HEAD
-PHEONIX ECONOVERSE
+# PHOENIX ECONOVERSE
 
-Primary aim -
-    Our goal is to create a economy simulator with multiple sections involved in it. These section include information for the begginers about trading, gambling, trading and bullion.
+## Primary aim 
+- Our goal is to create an economy simulator with multiple sections in it. These sections include information for beginners about trading, gambling, trading, and bullion.
 
-Infornmation about the project -
-    --> Trading will be done by Role Playing Games to make it interavtive and easy to learn.
-    --> Multiple games will also include in the gambling section.
-    --> Trading will be done by realtime stock market.
-    --> Open world chat will be provided.
-    --> Authentication and uers data will also be used to store the data.
-    --> More fatures and functions will be added to the project in the near future.
+## Project features:
+- Trading using "fake" money buying/selling stocks and built like a Role-Playing game to make it interactive and easy to learn.
+- Multiple games will also be included in the gambling section.
+- Trading will be done by real-time stock market.
+- World chat will be added so users can chat with players all around the world.
+- Authentication and uers data will also be used to store the data.
+- More features and functions will be added to the project shortly.
 
-Information about the languages used -
-    --> Frameworks will be used like Vue.js, React or angular
-    --> Most of the project will be written on html, css and JavaScript.
-    --> Usage of database is required to store the authentication and user detailes. We will be using.
-=======
->>>>>>> 662b9ee35a73ec2c28fe0f1b038fadaf5acfe000
+## Information about the languages used:
+- Frameworks will be used like Vue.js, React, or angular
+- Most of the project will be written in HTML, CSS, and JavaScript.
+- ~~Database usage is required to store authentication and user details.~~ We will be using supabase for backend storage 
 
