@@ -12,7 +12,7 @@
 - More features and functions will be added to the project shortly.
 
 ## Information about the languages used:
-- Frameworks will be used like Vue.js, React, or angular
+- Vue.js will be used
 - Most of the project will be written in HTML, CSS, and JavaScript.
 - ~~Database usage is required to store authentication and user details.~~
   We will be using supabase for backend storage 
