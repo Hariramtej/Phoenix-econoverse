@@ -1,29 +1,23 @@
 # Phoenix-econoverse
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the initial commit for the Vue.js setup
 
-## Recommended IDE Setup
+i forgot to save our old readme file so if you have it can you
+add important info from here and push it to our repository?
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+### Refer to this guide to setup the environment on your local machine:
+```
+https://vuejs.org/guide/quick-start
 ```
 
-### Compile and Hot-Reload for Development
+i think you can directly clone this repo and then just run it with node,
+dont create a new vue project
 
-```sh
-npm run dev
+Meanwhile these are the main commands that is common to all:
+```
+$ cd <your-project-name>
+$ npm install
+$ npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
