@@ -1,19 +1,29 @@
-# PHOENIX ECONOVERSE
+# Phoenix-econoverse
 
-## Primary aim 
-- Our goal is to create an economy simulator with multiple sections in it. These sections include information for beginners about trading, gambling, trading, and bullion.
+This template should help get you started developing with Vue 3 in Vite.
 
-## Project features:
-- Trading using virtual money buying/selling stocks and built like a Role-Playing game to make it interactive and easy to learn.
-- Multiple games will also be included in the gambling section.
-- Trading will be done by the real-time stock market.
-- World chat will be added so users can chat with players all around the world.
-- Authentication and users data will also be used to store the data.
-- More features and functions will be added to the project shortly.
+## Recommended IDE Setup
 
-## Information about the languages used:
-- Vue.js will be used
-- Most of the project will be written in HTML, CSS, and JavaScript.
-- ~~Database usage is required to store authentication and user details.~~
-  We will be using supabase for backend storage 
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
+## Customize configuration
+
+See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
